@@ -12,10 +12,6 @@
 			]
 		},
 		{
-			"Name": "RLPlugin",
-			"Enabled": true
-		},
-		{
 			"Name": "CascadeToNiagaraConverter",
 			"Enabled": true
 		}
